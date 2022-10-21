@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis was to compare the fares for each type of city (Rural, Suburban, Urban). We further summazrized total rides, total drivers, total amount of fares, the average fare per ride, and the average fare per driver for each of the city types. We finally created a line chart with Matplotlib which compares the total fares by city type.
+The purpose of this analysis was to compare the fares for each type of city (Rural, Suburban, Urban). We further summarized total rides, total drivers, total amount of fares, the average fare per ride, and the average fare per driver for each of the city types. We finally created a line chart with Matplotlib which compares the total fares by city type.
 
 ## Results
 
